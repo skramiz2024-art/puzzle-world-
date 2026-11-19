@@ -1,0 +1,6 @@
+{
+  "name": "Puzzle World",
+  "description": "Play 100 progressive puzzle levels across Number, Block, Picture, and Match-3 games directly in your browser.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
